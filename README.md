@@ -3,8 +3,6 @@
 | Name       | Aibulat Nigmatullin                            |
 | ---------- | ---------------------------------------------- |
 | Address    | Turkey, Samsun, Atakum                         |
-| Phone      | [+90 534 061 4210](tel:+905340614210)          |
-| Whatsapp   | [+90 534 061 4210](https://wa.me/905340614210) |
 | Telegram   | [ngmAibulat](https://t.me/ngmAibulat)          |
 | Email      | nigmatullin@gmail.com                          |
 | Linkedin   | https://www.linkedin.com/in/aibulat/           |
