@@ -32,7 +32,8 @@
 -   Other Languages: `SQL`, `HTML`, `CSS`, `Markdown`
 -   Web Backend Frameworks: `ExpressJS`, `Fastify`, `Django`, `FastAPI`, `Laravel`, `SlimPHP`, `Mojolicious`
 -   Frontend Frameworks: `React`
--   Databases: `PostgreSQL`, `MySQL/MariaDB`, `MSSQL`, `Oracle`, `MongoDB`
+-   Databases: `PostgreSQL`, `MySQL/MariaDB`, `MSSQL`, `Oracle`, `MongoDB`, `ER-Diagrams`, `Database Design`
+-   SQL: `Joins`, `Grouping`, `Rollup`, `Cube`, `Subquery`, `CTE`, `Recursive CTE`, `Window Functions`, `Procedural Extensions`, `Triggers`, `Views`, `Materialized Views`, `Stored Procedures`, `Indexes`, `ColumnStore`, `ORM`, `Database Migrations`, `Sqitch`, `Sharding`, `Replication`
 -   Virtualization: `VMware vSphere`, `KVM`, `Hyper-V`
 -   In-memory Databases: `Tarantool`, `Redis`
 -   API: `REST API`, `GraphQL`, `JWT`, `API testing`, `OpenAPI/Swagger specs`
