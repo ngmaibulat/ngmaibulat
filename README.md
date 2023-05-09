@@ -1,13 +1,13 @@
 ### Senior Developer with Networking/ITSec Background
 
-| Name       | Aibulat Nigmatullin                            |
-| ---------- | ---------------------------------------------- |
-| Address    | Turkey, Samsun, Atakum                         |
-| Telegram   | [ngmAibulat](https://t.me/ngmAibulat)          |
-| Email      | nigmatullin@gmail.com                          |
-| Linkedin   | https://www.linkedin.com/in/aibulat/           |
-| Github     | https://github.com/ngmaibulat                  |
-| References | Available upon request                         |
+| Name       | Aibulat Nigmatullin                   |
+| ---------- | ------------------------------------- |
+| Address    | Turkey, Samsun, Atakum                |
+| Telegram   | [ngmAibulat](https://t.me/ngmAibulat) |
+| Email      | nigmatullin@gmail.com                 |
+| Linkedin   | https://www.linkedin.com/in/aibulat/  |
+| Github     | https://github.com/ngmaibulat         |
+| References | Available upon request                |
 
 #### Summary:
 
@@ -30,18 +30,19 @@
     -   `ZX`, https://github.com/google/zx
     -   `Powershell`
 -   Other Languages: `SQL`, `HTML`, `CSS`, `Markdown`
--   Web Backend Frameworks: ExpressJS, Fastify, Django, FastAPI, Laravel, SlimPHP, Mojolicious
--   Frontend Frameworks: React
--   Databases: PostgreSQL, MySQL/MariaDB, MSSQL, Oracle MongoDB
--   In-memory Databases: Tarantool, Redis
--   API: REST API, GraphQL, JWT, API testing, OpenAPI/Swagger specs
--   Version Control: Git, GitHub, used to work with SVN
--   CI/CD: Github Actions
--   Cloud Platforms: Basics of: AWS, GCP
--   Containerization: Docker, Podman, Kubernetes (basics)
--   Administration: Linux, Windows Server, Active Directory, RADIUS, DNS, DHCP, VMware vSphere, KVM
--   IT Security: Firewalls, Web Security, Mail Security, DLP
--   Networking: Switching, Routing, Troubleshooting. Good understanding of network protocols with plenty of expierense with tcpdump, wireshark
+-   Web Backend Frameworks: `ExpressJS`, `Fastify`, `Django`, `FastAPI`, `Laravel`, `SlimPHP`, `Mojolicious`
+-   Frontend Frameworks: `React`
+-   Databases: `PostgreSQL`, `MySQL/MariaDB`, `MSSQL`, `Oracle`, `MongoDB`
+-   Virtualization: `VMware vSphere`, `KVM`, `Hyper-V`
+-   In-memory Databases: `Tarantool`, `Redis`
+-   API: `REST API`, `GraphQL`, `JWT`, `API testing`, `OpenAPI/Swagger specs`
+-   Version Control: `Git`, `GitHub`, used to work with `SVN`
+-   CI/CD: `Github Actions`
+-   Cloud Platforms: Basics of: `AWS`, `GCP`
+-   Containerization: `Docker`, `Podman`, `Kubernetes` (basics)
+-   Administration: `Linux`, `Windows Server`, `Active Directory`, `RADIUS`, `DNS`, `DHCP`
+-   IT Security: `Firewalls`, `Web Security`, `Mail Security`, `DLP`
+-   Networking: `Switching`, `Routing`, `Troubleshooting`. Good understanding of network protocols with plenty of expierense with `tcpdump`, `wireshark`
 
 #### Soft skills:
 
