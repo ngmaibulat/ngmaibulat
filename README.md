@@ -11,8 +11,9 @@
 
 #### Summary:
 
--   Working in IT since `2003`
--   Certified IT instructor since `2007` (MCT, CTT, Checkpoint Network Security instructor)
+-   Working in IT since `2001` (Started at 20 years old)
+-   Senior/Instructor positions since `2006`
+-   Certified IT instructor since `2006` (MCT, CTT, Checkpoint Network Security instructor)
 -   Working in international companies since `2010`
 -   Developing in multiple programming languages in areas of `Automation`, `IT Security`, `Web Development`, `Databases`.
 -   Have completed multiple projects in `EU`, `Middle East`, `Singapore` within Professional Services team.
