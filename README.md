@@ -1,4 +1,4 @@
-### Senior Developer with Networking/ITSec Background
+### Senior Developer with DevOps/Networking/ITSec Background
 
 | Name       | Aibulat Nigmatullin                   |
 | ---------- | ------------------------------------- |
@@ -21,27 +21,47 @@
 #### Technical Skills:
 
 -   Programming Languages:
+
     -   `JavaScript` with runtime: NodeJS, Deno, Frontend
+    -   `Java`
+    -   `C#`
     -   `Perl`
     -   `Python`
     -   `PHP`
     -   `C/C++`
+
 -   Shell scripting:
+
     -   `Bash`
     -   `ZX`, https://github.com/google/zx
     -   `Powershell`
+
+-   DevOps:
+
+    -   `CI/CD, Github Actions`
+    -   `GitOps`
+    -   `Infrastructure as Code`
+    -   `Immutable Infrastructure`
+    -   `Containers, Docker, Podman`
+    -   `AWS`
+    -   `GCP`
+    -   `DigitalOcean`
+    -   `Terraform`
+    -   `Ansible`
+    -   `Packer`
+    -   `Vagrant`
+    -   `VMware vSphere`
+    -   `Hyper-V`
+    -   `KVM`
+    -   `Proxmox`
+
 -   Other Languages: `SQL`, `HTML`, `CSS`, `Markdown`
 -   Web Backend Frameworks: `ExpressJS`, `Fastify`, `Django`, `FastAPI`, `Laravel`, `SlimPHP`, `Mojolicious`
 -   Frontend Frameworks: `React`
 -   Databases: `PostgreSQL`, `MySQL/MariaDB`, `MSSQL`, `Oracle`, `MongoDB`, `ER-Diagrams`, `Database Design`
 -   SQL: `Joins`, `Grouping`, `Rollup`, `Cube`, `Subquery`, `CTE`, `Recursive CTE`, `Window Functions`, `Procedural Extensions`, `Triggers`, `Views`, `Materialized Views`, `Stored Procedures`, `Indexes`, `ColumnStore`, `ORM`, `Database Migrations`, `Sqitch`, `Sharding`, `Replication`
--   Virtualization: `VMware vSphere`, `KVM`, `Hyper-V`
 -   In-memory Databases: `Tarantool`, `Redis`
 -   API: `REST API`, `GraphQL`, `JWT`, `API testing`, `OpenAPI/Swagger specs`
--   Version Control: `Git`, `GitHub`, used to work with `SVN`
--   CI/CD: `Github Actions`
--   Cloud Platforms: Basics of: `AWS`, `GCP`
--   Containerization: `Docker`, `Podman`, `Kubernetes` (basics)
 -   Administration: `Linux`, `Windows Server`, `Active Directory`, `RADIUS`, `DNS`, `DHCP`
 -   IT Security: `Firewalls`, `Web Security`, `Mail Security`, `DLP`
 -   Networking: `Switching`, `Routing`, `Troubleshooting`. Good understanding of network protocols with plenty of expierense with `tcpdump`, `wireshark`
