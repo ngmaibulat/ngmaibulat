@@ -1,10 +1,9 @@
-### Senior Developer with DevOps/Networking/ITSec Background
+### IT Security/DevOps Consultant
 
 | Name       | Aibulat Nigmatullin                   |
 | ---------- | ------------------------------------- |
-| Address    | Turkey, Samsun, Atakum                |
+| Address    | UAE, Dubai                            |
 | Telegram   | [ngmAibulat](https://t.me/ngmAibulat) |
-| Email      | nigmatullin@gmail.com                 |
 | Linkedin   | https://www.linkedin.com/in/aibulat/  |
 | Github     | https://github.com/ngmaibulat         |
 | References | Available upon request                |
@@ -15,26 +14,21 @@
 -   Senior/Instructor positions since `2006`
 -   Certified IT instructor since `2006` (MCT, CTT, Checkpoint Network Security instructor)
 -   Working in international companies since `2010`
--   Developing in multiple programming languages in areas of `Automation`, `IT Security`, `Web Development`, `Databases`.
+-   Business Development and Project Management Expertise
 -   Have completed multiple projects in `EU`, `Middle East`, `Singapore` within Professional Services team.
 
 #### Technical Skills:
 
--   Programming Languages:
+-   IT Security:
 
-    -   `JavaScript` with runtime: NodeJS, Deno, Frontend
-    -   `Java`
-    -   `C#`
-    -   `Perl`
-    -   `Python`
-    -   `PHP`
-    -   `C/C++`
-
--   Shell scripting:
-
-    -   `Bash`
-    -   `ZX`, https://github.com/google/zx
-    -   `Powershell`
+    -   `Firewalls`, `IPS/IDS`, `NGFW`, `Network Security`
+    -   `Web Security`
+    -   `Email Security`
+    -   `DLP`, `Data Security`
+    -   `CASB`
+    -   `SIEM`
+    -   `Secrets Management`
+    -   `PKI`
 
 -   DevOps:
 
@@ -55,16 +49,12 @@
     -   `KVM`
     -   `Proxmox`
 
--   Other Languages: `SQL`, `HTML`, `CSS`, `Markdown`
--   Web Backend Frameworks: `ExpressJS`, `Fastify`, `Django`, `FastAPI`, `Laravel`, `SlimPHP`, `Mojolicious`
--   Frontend Frameworks: `React`
--   Databases: `PostgreSQL`, `MySQL/MariaDB`, `MSSQL`, `Oracle`, `MongoDB`, `ER-Diagrams`, `Database Design`
--   SQL: `Joins`, `Grouping`, `Rollup`, `Cube`, `Subquery`, `CTE`, `Recursive CTE`, `Window Functions`, `Procedural Extensions`, `Triggers`, `Views`, `Materialized Views`, `Stored Procedures`, `Indexes`, `ColumnStore`, `ORM`, `Database Migrations`, `Sqitch`, `Sharding`, `Replication`
--   In-memory Databases: `Tarantool`, `Redis`
--   API: `REST API`, `GraphQL`, `JWT`, `API testing`, `OpenAPI/Swagger specs`
--   Administration: `Linux`, `Windows Server`, `Active Directory`, `RADIUS`, `DNS`, `DHCP`
--   IT Security: `Firewalls`, `Web Security`, `Mail Security`, `DLP`
--   Networking: `Switching`, `Routing`, `Troubleshooting`. Good understanding of network protocols with plenty of expierense with `tcpdump`, `wireshark`
+-   Networking:
+    -   `Switching`
+    -   `Routing`
+    -   `Troubleshooting`. Good understanding of network protocols with plenty of expierense with `tcpdump`, `wireshark`
+    -   `VPN`, `IPSec`, `TLS/SSL VPN`
+    -   Writing libpcap based software in C++
 
 #### Soft skills:
 
@@ -99,9 +89,10 @@
 
 #### NGM
 
-`Independent Developer: 2020 - 2023`
+`Independent Consultant: 2020 - 2023`
 
--   Software Development in NodeJS, PHP, Python for various Network Security, Mail Security related projects.
+-   IT Security Consulting
+-   DevOps Consulting
 
 #### Forcepoint
 
