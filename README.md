@@ -10,12 +10,22 @@
 
 #### Summary:
 
--   Working in IT since `2001` (Started at 20 years old)
--   Senior/Instructor positions since `2006`
+-   Expierence in IT Industry since `2001`
+-   Senior/Instructor technical positions since `2006`
 -   Certified IT instructor since `2006` (MCT, CTT, Checkpoint Network Security instructor)
 -   Working in international companies since `2010`
+-   Sales/SE experience since `2013`
 -   Business Development and Project Management Expertise
--   Have completed multiple projects in `EU`, `Middle East`, `Singapore` within Professional Services team.
+-   Have completed multiple projects in `EU`, `Middle East`, `Singapore` within Forcepoint Professional Services team.
+
+#### Business skills:
+
+-   Develop and maintain relationships with customers
+-   Project Management
+-   Sales
+-   Public speech
+-   Presales Skills: POC, Demo, Presentation, Training
+-   Postsales Skills: Training, Health Checks, Escalation Management
 
 #### Technical Skills:
 
@@ -37,17 +47,12 @@
     -   `Infrastructure as Code`
     -   `Immutable Infrastructure`
     -   `Containers, Docker, Podman`
+    -   `Virtualization`
     -   `AWS`
     -   `GCP`
     -   `DigitalOcean`
     -   `Terraform`
     -   `Ansible`
-    -   `Packer`
-    -   `Vagrant`
-    -   `VMware vSphere`
-    -   `Hyper-V`
-    -   `KVM`
-    -   `Proxmox`
 
 -   Networking:
     -   `Switching`
@@ -55,18 +60,6 @@
     -   `Troubleshooting`. Good understanding of network protocols with plenty of expierense with `tcpdump`, `wireshark`
     -   `VPN`, `IPSec`, `TLS/SSL VPN`
     -   Writing libpcap based software in C++
-
-#### Soft skills:
-
--   Public speech
--   Training
--   Presentation
--   Demo
--   Managing customer relationships
--   POC
--   Presales
--   Escalation Management
--   Proactive Health Checks with customers.
 
 #### Education:
 
@@ -99,7 +92,8 @@
 `Professional Service Engineer: 2018 - 2020`
 
 -   Deployments, Upgrades, Training for customers accross EMEA, when PS involvement was required.
--   Develop custom scripting code in Python, SQL.
+-   Project Management
+-   Post-Sales Support
 
 #### Forcepoint/Websense
 
