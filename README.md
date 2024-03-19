@@ -20,12 +20,12 @@
 
 #### Business skills:
 
--   Develop and maintain relationships with customers
--   Project Management
--   Sales
--   Public speech
--   Presales Skills: POC, Demo, Presentation, Training
--   Postsales Skills: Training, Health Checks, Escalation Management
+-   Develop and maintain `relationships with customers`
+-   `Project Management`
+-   `Sales`
+-   `Public speech`
+-   Presales Skills: `POC`, `Demo`, `Presentation`, `Training`
+-   Postsales Skills: `Training`, `Health Checks`, `Escalation Management`
 
 #### Technical Skills:
 
@@ -59,7 +59,7 @@
     -   `Routing`
     -   `Troubleshooting`. Good understanding of network protocols with plenty of expierense with `tcpdump`, `wireshark`
     -   `VPN`, `IPSec`, `TLS/SSL VPN`
-    -   Writing libpcap based software in C++
+    -   Writing `libpcap` based software in C++
 
 #### Education:
 
